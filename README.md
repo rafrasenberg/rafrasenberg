@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I am Raf Rasenberg 👋
 
-<!--
-**rafrasenberg/rafrasenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Freelance Web Developer
 
-Here are some ideas to get you started:
+I am a Dutch 🇳🇱 freelance Web Developer & content creator. I help businesses and start-ups with building out highly efficient web applications using mainly Django & JavaScript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-end and Dev-Ops is where I am the most comfortable and what I enjoy the most! I love to set-up CI/CD pipelines, configure cloud services and servers and I have a big interest in TDD (Test Driven Development).
+
+#### Skills
+- **Front-end:** HTML, SCSS, JavaScript, Bootstrap
+- **Back-end:** Python, Django, Flask, PostgreSQL, Redis
+- **CMS:** Wagtail CMS, WordPress
+- **Cloud:** AWS, GCP, Heroku, Digital Ocean
+- **Dev-Ops:** Docker, Git, Gitlab, Travis, Sentry, Pytest, Coverage.py, flake8, Black, isort
+- **Other:** Bash, Linux SysAdmin, Nginx, Gunicorn, Supervisor
+
+> :email: Interested in working together? Shoot me a message: hello@rafrasenberg.com
