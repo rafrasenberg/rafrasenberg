@@ -1,6 +1,7 @@
 # Hi, I am Raf Rasenberg 👋
 
 [![Twitter Link](https://img.shields.io/twitter/follow/rafrasenberg?color=1DA1F2&label=%40rafrasenberg&logo=Twitter&style=flat)](https://twitter.com/rafrasenberg)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/rafrasenberg%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rafrasenberg/)
 
 ### A Freelance Web Developer
 
