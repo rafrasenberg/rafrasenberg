@@ -1,5 +1,7 @@
 # Hi, I am Raf Rasenberg 👋
 
+[![Twitter Link](https://img.shields.io/twitter/follow/rafrasenberg?color=1DA1F2&label=%40rafrasenberg&logo=Twitter&style=flat)](https://twitter.com/rafrasenberg)
+
 ### A Freelance Web Developer
 
 I am a Dutch 🇳🇱 freelance Web Developer & content creator. I help businesses and start-ups with building out highly efficient web applications using mainly Django & JavaScript. 
