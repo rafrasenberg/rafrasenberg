@@ -4,16 +4,11 @@
 
 ### About me
 
-I am Raf Rasenberg, a Dutch 🇳🇱 Software Engineer & Business Owner. I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
+I am Raf Rasenberg, a Dutch 🇳🇱 Software Engineer. I’m a big lover of everything back-end, cloud and DevOps related. CI/CD pipelines, Kubernetes and IaC to name some of the IT buzz words. Coming from a business background, non-technical communication and focus on cost-efficient solutions is one my key skills.
 
-I’m a big lover of everything back-end and DevOps related. CI/CD pipelines, Kubernetes and Cloud to name some of the IT buzz words. Coming from a business background, non-technical communication and focus on cost-efficient solutions is one my key skills.
+Currently working as an AWS Cloud Engineer in The Netherlands.
 
 #### Skills
-- **Front-end:** JavaScript, HTML/SCSS
-- **Back-end:** Python, Django, Flask, PostgreSQL
-- **CMS:** Wagtail CMS, WordPress
-- **Cloud:** AWS, GCP, Digital Ocean
-- **Dev-Ops:** Docker, Kubernetes, Terraform
-- **Other:** Linux, Bash
+Python, Linux, Bash, Kubernetes, Docker, Terraform, AWS
 
 > :email: Interested in working together? Shoot me a message: hello@rafrasenberg.com
