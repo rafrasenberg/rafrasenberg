@@ -9,8 +9,17 @@ I am Raf Rasenberg, a Dutch 🇳🇱 Software Engineer. I’m a big lover of eve
 Currently working as an AWS Cloud Engineer in The Netherlands.
 
 #### Skills
-Python, Linux, Bash, Kubernetes, Docker, Terraform, AWS
+• Python
+• AWS
+• Serverless
+• Docker
+• Kubernetes
+• JavaScript/TypeScript
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafrasenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### What does my week look like? 👇
+
+[![raf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafrasenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact
 
 > :email: Interested in working together? Shoot me a message: hello@rafrasenberg.com
