@@ -11,6 +11,6 @@ Currently working as an AWS Cloud Engineer in The Netherlands.
 #### Skills
 Python, Linux, Bash, Kubernetes, Docker, Terraform, AWS
 
-[![Raf Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafrasenberg](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafrasenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > :email: Interested in working together? Shoot me a message: hello@rafrasenberg.com
