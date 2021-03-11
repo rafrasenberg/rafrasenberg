@@ -9,12 +9,12 @@ I am Raf Rasenberg, a Dutch 🇳🇱 Software Engineer. I’m a big lover of eve
 Currently working as an AWS Cloud Engineer in The Netherlands.
 
 #### Skills
-• Python
-• AWS
-• Serverless
-• Docker
-• Kubernetes
-• JavaScript/TypeScript
+- Python
+- AWS
+- Serverless
+- Docker
+- Kubernetes
+- JavaScript/TypeScript
 
 ### What does my week look like? 👇
 
