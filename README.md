@@ -23,4 +23,4 @@ Aside from being a technical professional, I am someone that values collaboratio
 
 ### Contact
 
-> :email: Interested in working together? Shoot me a message: hello@rafrasenberg.com
+> :email: Interested in working together? Shoot me a message: hello at rafrasenberg.com
