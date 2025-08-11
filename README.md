@@ -1,7 +1,5 @@
 # Hi, I am Raf Rasenberg 👋
 
-[![Twitter Link](https://img.shields.io/twitter/follow/rafrasenberg?color=1DA1F2&label=%40rafrasenberg&logo=Twitter&style=flat)](https://twitter.com/rafrasenberg)
-
 ### About me
 
 Redeemed, husband, father, and versatile Software Engineer with close to a decade of industry experience.
